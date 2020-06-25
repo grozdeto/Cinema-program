@@ -12,3 +12,7 @@ Application contains three tables:
 ### 1.3 "likes" :
  that is mapping table. The idea here is to contains information who user is liked a given image.
  
+ 2. Application functionality:
+<br/> 2.1 Registration page - includes:
+<br/> validation of 
+ 
