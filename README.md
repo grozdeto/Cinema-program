@@ -1,7 +1,7 @@
 # Cinema-program
 A website for cinema program and information about the films.
 
-The above is the old idea. Please, read bellow.
+###The above is the old idea. Please, read bellow.
 
 1. There is file admin_database.php in this aplication. Please, execute it in the browser to create database and to create tables.
 Application contains three tables:
